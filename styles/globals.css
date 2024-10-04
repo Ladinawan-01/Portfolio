@@ -130,8 +130,8 @@ span{
     font-weight: 700;
 }
 
-.home-content p{
-    font-size: 1.6rem;
+p{
+    font-size: 1.6rem !important;
 }
 
 .home-img{
