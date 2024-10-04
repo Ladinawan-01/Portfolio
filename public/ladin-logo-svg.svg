@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <style>
+    .logo-text { font-family: 'Arial', sans-serif; font-weight: bold; }
+  </style>
+  
+  <!-- Code bracket -->
+  <path class="logo-bracket" d="M20,20 L40,10 L40,90 L20,80 Z" fill="none" stroke="#b74b4b" stroke-width="4"/>
+  
+  <!-- Letter L -->
+  <text x="45" y="75" class="logo-text" font-size="60" fill="#ffffff">L</text>
+  
+  <!-- Dot for the i in Ladin -->
+  <circle cx="80" y="25" r="5" fill="#ffffff"/>
+</svg>
