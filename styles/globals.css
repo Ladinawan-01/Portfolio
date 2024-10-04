@@ -36,6 +36,13 @@ header{
     align-items: center;
     z-index: 100;
 }
+p {
+    font-size: 1.6rem !important;;
+}
+.timeline-item h3 {
+    font-size: 22px !important;
+    margin-bottom: 11px !important;
+}
 
 .logo{
     font-size: 3rem;
